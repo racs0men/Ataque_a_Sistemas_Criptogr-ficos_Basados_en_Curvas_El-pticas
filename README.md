@@ -1,2 +1,2 @@
-# Ataque_a_Sistemas_Criptogr-ficos_Basados_en_Curvas_El-pticas
+# Ataque_a_Sistemas_Criptográficos_Basados_en_Curvas_Elípticas
 Trabajo de Fin de Máster
